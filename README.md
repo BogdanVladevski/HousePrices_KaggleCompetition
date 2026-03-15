@@ -1,4 +1,3 @@
-#HousePrices_KaggleCompetition
 House Price Prediction University Competition Winner
 Top ranked submission for the Kaggle House Prices: Advanced Regression Techniques competition, built as part of a university data science module me and my partner completed together.
 An end to end machine learning pipeline for predicting residential property sale prices. We combined feature engineering, Optuna-tuned ensemble models and a stacked meta-learner to get a competitive RMSE on log-transformed sale prices. Took a while to get the stacking right but really happy with how it turned out.
